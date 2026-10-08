@@ -1,2 +1,0 @@
-# DevCore.github.io
-Сайт
